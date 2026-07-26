@@ -5,9 +5,9 @@ from pathlib import Path
 # CHANGE THESE PATHS
 # ==========================
 
-INPUT_DATASET = Path(r"D:\PROJECTS\ML_projects\FOD_Project\dataset")
+INPUT_DATASET = Path(r"D:\PROJECTS\ML_projects\Dataset collection\sampled dataset\rock")
 
-OUTPUT_DATASET = Path(r"D:\PROJECTS\ML_projects\FOD_Project\dataset_grayscale")
+OUTPUT_DATASET = Path(r"D:\PROJECTS\ML_projects\FOD_Project\dataset_greyscale_new\rock")
 
 # ==========================
 

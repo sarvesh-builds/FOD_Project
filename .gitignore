@@ -1,5 +1,6 @@
 dataset/
 dataset_grayscale/
+dataset_greyscale_new/
 venv/
 tfenv/
 __pycache__/
